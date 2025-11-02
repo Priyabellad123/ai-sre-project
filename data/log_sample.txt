@@ -1,0 +1,7 @@
+2025-10-30 10:05:21 INFO  User logged in successfully
+2025-10-30 10:06:14 INFO  Payment processed
+2025-10-30 10:06:55 WARN  High latency in service A
+2025-10-30 10:07:03 INFO  User logged out
+2025-10-30 10:08:10 ERROR Service A timeout
+2025-10-30 10:08:45 ERROR Database connection failed
+2025-10-30 10:09:10 INFO  User logged in successfully
